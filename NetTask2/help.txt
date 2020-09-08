@@ -1,0 +1,2 @@
+Run task2.Client and task2.Server, write an ip adress in CLient or skip (automatically write 127.0.0.1)
+Then You can write messages and watch them on the Server, also use "time" to watch the current time + one million of seconds
